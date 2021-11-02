@@ -34,7 +34,7 @@ const Navbar =(props)=> {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item  mx-3">
               <Link className="nav-link" to="/">
-                Home <span className="sr-only">(current)</span>
+               General <span className="sr-only">(current)</span>
               </Link>
             </li>
 
